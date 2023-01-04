@@ -63,6 +63,7 @@ a img {
   
 .klick:active {
   color: black;
+  background-color: #fa6390;
 }
 
 #contact :visited {
