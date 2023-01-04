@@ -1,0 +1,87 @@
+#main-header,
+#contact-header {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+h1 {
+  color: #c4bdbd;
+  background-color: #f59595;
+}
+
+h2 {
+  color: #e417eb;
+  background-color: #d8d3d3;
+}
+
+#main-topic {
+  background-color: #fc7ca6;
+}
+.subtopic {
+  background-color: #ffff00;
+}
+
+.subtopic:hover {
+  color: #31d6d6;
+}
+
+a img {
+  width: 125px;
+  height: 100px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+#lollipop {
+  float: left;
+  border: 5px solid yellow;
+}
+
+#candy-floss {
+  float: right;
+  border: 5px solid cyan;
+}
+
+#jellybeans {
+  float: left;
+  border: 5px solid pink;
+}
+
+.partners {
+  background-color: #3adbdb;
+  list-style: none;
+}
+
+.partners:hover {
+  background-color: #ffff00;
+}
+
+#main :visited {
+  color: #ec10bd;
+}
+
+.click:active {
+  color: black;
+  background-color: #fa6390;
+}
+.click:visited{
+  color:brown
+}
+
+#contact :visited {
+  color: #31d6d6;
+}
+
+.contact-info {
+  list-style: circle;
+  background-color: #3dd8ec;
+}
+
+.contact-info:hover {
+  background-color: #fa6390;
+}
+
+.contact-info li a:active {
+  color: black;
+}
