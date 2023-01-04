@@ -58,12 +58,15 @@ a img {
 }
 
 #main :visited {
-    color: #ec10bd;
+  color: #ec10bd;
 }
-  
-.klick:active {
+
+.click:active {
   color: black;
   background-color: #fa6390;
+}
+.click:visited{
+  color:brown
 }
 
 #contact :visited {
